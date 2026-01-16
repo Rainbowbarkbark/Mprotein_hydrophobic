@@ -1,5 +1,26 @@
 # 2025_winter_urp
 
+[colab notebooks]
+
+Test_perplexity.ipynb
+- https://colab.research.google.com/drive/1ZwJ4YINVoanU7ZGVbHQMCH9-MINGR5h5?usp=sharing
+
+Test_mixed.ipynb
+- https://colab.research.google.com/drive/1JPKvH7NI3l7wyDBcN2LY9m_ofMGLuaFR?usp=sharing
+
+ProtT5_embedding_extract.ipynb
+- https://colab.research.google.com/drive/1WvwfJSzbTvVGmh-UFMiZ8ZWZFUAEeGyC?usp=sharing
+
+Main.ipynb
+- https://colab.research.google.com/drive/1JaRf1C_pgAbaGSjAAvnaiIS97NszQhlL?usp=sharing
+
+Main_huggingface.ipynb
+- https://colab.research.google.com/drive/1-xvlMdRknkXolqx4veVCLoLNPrxKwOd0?usp=sharing
+
+ESMC_embedding_extract.ipynb
+- https://colab.research.google.com/drive/1hSLqqUAAHnJDpKUaV96kw-R3shOrkROH?usp=sharing
+
+
 
 *참고자료
 
