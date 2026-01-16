@@ -2,10 +2,13 @@
 
 
 *참고자료
+
 [정밀도 재현율 민감도 특이도]
+
 https://blog.naver.com/trimurti/221387953564
 
 [AIAYN]
+
 https://velog.io/@pswo1021/11.-Attention-Mechanisms-and-Transformers#1122-attention-pooling-via-nadaraya-watson-regression
 https://lcyking.tistory.com/entry/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-Attention-is-All-you-need%EC%9D%98-%EC%9D%B4%ED%95%B4
 
