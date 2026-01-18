@@ -1,6 +1,12 @@
 # 2025_winter_urp
 
-[colab notebooks]
+<Main Code>
+
+Main_Embedding_Extract_ESMC.ipynb
+- https://colab.research.google.com/drive/1-xvlMdRknkXolqx4veVCLoLNPrxKwOd0?usp=sharing
+
+
+[etc_processing]
 
 Test_perplexity.ipynb
 - https://colab.research.google.com/drive/1ZwJ4YINVoanU7ZGVbHQMCH9-MINGR5h5?usp=sharing
@@ -13,9 +19,6 @@ ProtT5_embedding_extract.ipynb
 
 Main.ipynb
 - https://colab.research.google.com/drive/1JaRf1C_pgAbaGSjAAvnaiIS97NszQhlL?usp=sharing
-
-Main_huggingface.ipynb
-- https://colab.research.google.com/drive/1-xvlMdRknkXolqx4veVCLoLNPrxKwOd0?usp=sharing
 
 ESMC_embedding_extract.ipynb
 - https://colab.research.google.com/drive/1hSLqqUAAHnJDpKUaV96kw-R3shOrkROH?usp=sharing
