@@ -3,6 +3,7 @@
 
 ## etc ##
 /ESMC_embedding/
+/ESMC_embedding_safetensors/
 /git_commit.ipynb
 /etc.gdoc
 
