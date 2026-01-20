@@ -4,6 +4,8 @@
 
 Main_Embedding_Extract_ESMC.ipynb
 - https://colab.research.google.com/drive/1-xvlMdRknkXolqx4veVCLoLNPrxKwOd0?usp=sharing
+Main_train.ipynb
+- https://colab.research.google.com/drive/1z0ICUzNTBYLRxDqaeWgVZXlBB1KWJ1Gz?usp=sharing
 
 
 [etc_processing]
