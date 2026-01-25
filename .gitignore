@@ -248,3 +248,5 @@ $RECYCLE.BIN/
 /dataset/lmdb
 /git_commit.ipynb
 /etc.gdoc
+in_progress/targets.safetensors
+in_progress/embeddings.safetensors
