@@ -192,7 +192,6 @@ pyrightconfig.json
 [Ll]ib
 [Ll]ib64
 [Ll]ocal
-[Ss]cripts
 pyvenv.cfg
 pip-selfcheck.json
 
@@ -248,5 +247,3 @@ $RECYCLE.BIN/
 /data/maps/
 /git_commit.ipynb
 /etc.gdoc
-in_progress/targets.safetensors
-in_progress/embeddings.safetensors
