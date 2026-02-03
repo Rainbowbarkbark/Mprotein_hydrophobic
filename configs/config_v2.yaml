@@ -1,0 +1,56 @@
+############################
+####### Fixed Params #######
+############################
+
+# 경로
+csv_path: ./data/raw/dataset_from_deeploc2_1.csv
+data_path: ./data/embed_target/
+pdb_path: ./data/pdb/
+weights_path: ./data/weights/
+out_path: ./outputs/
+
+# ETC
+k_cv: 4
+num_epochs: 30
+
+# Dataloader
+loader_kwargs:
+  batch_size: 32
+  num_workers: 4
+  pin_memory: true
+  persistent_workers: true
+
+# Loss
+loss_fixed: &l_fixed
+  weight: [12.7331, 3.8608, 34.2081, 1.5792]
+  alpha: null
+
+# Model
+model_fixed: &m_fixed
+  embedding_dim: 1152
+  output_dim: 4
+
+# Pooling
+pool_fixed: &a_fixed
+  kernel_size: 5
+  sigma: 1.0
+
+############################
+# Tuned Params (w. Optuna) #
+############################
+
+learning_rate: 0.00013074287937308774
+weight_decay: 6.355207172604972e-05
+
+loss:
+  <<: *l_fixed
+  gamma: 1.050642694872086
+
+model:
+  <<: *m_fixed
+  hidden_dim: 1024
+  hidden_dim_num: 3
+  attn_dim: 256
+  dropout: 0.5499382159284742
+  gcn_dim_num: 2
+  add_self_loops_in_conv: False

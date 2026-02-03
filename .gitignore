@@ -244,8 +244,8 @@ $RECYCLE.BIN/
 
 
 ## etc ##
-/dataset/etc
-/dataset/lmdb
+/data/embed_target/
+/data/maps/
 /git_commit.ipynb
 /etc.gdoc
 in_progress/targets.safetensors
